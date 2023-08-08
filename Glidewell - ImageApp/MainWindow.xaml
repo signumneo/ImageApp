@@ -1,0 +1,28 @@
+﻿<Window x:Class="ImageProcessingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Image Processing App" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Sidebar -->
+        <StackPanel Grid.Row="0" Background="#007ACC" Width="200">
+            <Button x:Name="OpenImage" Content="Open Image" Margin="10" Click="OpenImage_Click"/>
+            <Button x:Name="OpenDepthMap" Content="Open Depth Map" Margin="10" Click="OpenDepthMap_Click"/>
+            <Button x:Name="Reconstruct3D" Content="Reconstruct 3D" Margin="10" Click="Reconstruct3D_Click"/>
+            <Button x:Name="Grayscale" Content="Convert to Grayscale" Margin="10" Click="Grayscale_Click"/>
+            <Button x:Name="Resize" Content="Resize Image" Margin="10" Click="Resize_Click"/>
+            <TextBox x:Name="NewWidthTextBox" PlaceholderText="New Width" Margin="10"/>
+            <TextBox x:Name="NewHeightTextBox" PlaceholderText="New Height" Margin="10"/>
+        </StackPanel>
+
+        <!-- Image Viewer and Depth Map Viewer -->
+        <Grid Grid.Row="1">
+            <Image x:Name="ImageViewer" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Image x:Name="DepthMapViewer" HorizontalAlignment="Center" VerticalAlignment="Center" Opacity="0.5"/>
+        </Grid>
+    </Grid>
+</Window>

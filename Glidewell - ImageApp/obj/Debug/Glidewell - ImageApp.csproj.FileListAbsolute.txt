@@ -1,0 +1,14 @@
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.csproj.AssemblyReference.cache
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\MainWindow.g.cs
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\App.g.cs
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp_MarkupCompile.cache
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\bin\Debug\Glidewell - ImageApp.exe.config
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\bin\Debug\Glidewell - ImageApp.exe
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\bin\Debug\Glidewell - ImageApp.pdb
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\MainWindow.baml
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.g.resources
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell___ImageApp.Properties.Resources.resources
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.csproj.GenerateResource.cache
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.csproj.CoreCompileInputs.cache
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.exe
+C:\Users\jacob.thomas\Desktop\Jacob Thomas_118577\Code\Glidewell - ImageApp\Glidewell - ImageApp\obj\Debug\Glidewell - ImageApp.pdb
